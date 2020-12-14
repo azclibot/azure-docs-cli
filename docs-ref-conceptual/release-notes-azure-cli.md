@@ -107,6 +107,10 @@ Version 2.16.0
 
 * Support synapse sql dw cmdlets and update az synapse workspace create cmdlet
 
+### Profile
+
+* Azure Stack support for 2020-09-01-hybrid profile
+
 ## November 20, 2020
 
 Version 2.15.1
