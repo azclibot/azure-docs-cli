@@ -4,7 +4,7 @@ description: A complete list of officially supported Azure Command-Line Interfac
 author: haroldrandom
 ms.author: jianzen
 manager: yonzhan,yungezz
-ms.date: 06/29/2026
+ms.date: 06/30/2026
 ms.topic: generated-reference
 ms.service: azure-cli
 ms.custom: devx-track-azurecli
@@ -82,7 +82,7 @@ You will be prompted to install an extension on first use.
 |[connectedmachine](https://github.com/Azure/azure-cli-extensions/tree/main/src/connectedmachine) | 2.75.0 | Microsoft Azure Command-Line Tools ConnectedMachine Extension | Preview | [2.0.0b2](https://github.com/Azure/azure-cli-extensions/tree/main/src/connectedmachine/HISTORY.rst) |
 |[connectedvmware](https://github.com/Azure/azure-cli-extensions/tree/main/src/connectedvmware) | 2.0.67 | Microsoft Azure Command-Line Tools Connectedvmware Extension | GA | [1.2.1](https://github.com/Azure/azure-cli-extensions/tree/main/src/connectedvmware/HISTORY.rst) |
 |[containerapp](https://github.com/Azure/azure-cli-extensions/tree/main/src/containerapp) | 2.79.0 | Microsoft Azure Command-Line Tools Containerapp Extension | Preview | [1.3.0b4](https://github.com/Azure/azure-cli-extensions/tree/main/src/containerapp/HISTORY.rst) |
-|[cosmosdb-preview](https://github.com/Azure/azure-cli-extensions/tree/main/src/cosmosdb-preview) | 2.17.1 | Microsoft Azure Command-Line Tools Cosmosdb-preview Extension | GA | [1.6.2](https://github.com/Azure/azure-cli-extensions/tree/main/src/cosmosdb-preview/HISTORY.rst) |
+|[cosmosdb-preview](https://github.com/Azure/azure-cli-extensions/tree/main/src/cosmosdb-preview) | 2.17.1 | Microsoft Azure Command-Line Tools Cosmosdb-preview Extension | GA | [1.7.0](https://github.com/Azure/azure-cli-extensions/tree/main/src/cosmosdb-preview/HISTORY.rst) |
 |[costmanagement](https://github.com/Azure/azure-cli-extensions/tree/main/src/costmanagement) | 2.55.0 | Microsoft Azure Command-Line Tools CostManagementClient Extension | GA | [1.0.0](https://github.com/Azure/azure-cli-extensions/tree/main/src/costmanagement/HISTORY.rst) |
 |[custom-providers](https://github.com/Azure/azure-cli-extensions/tree/master/src/custom-providers) | 2.3.1 | Microsoft Azure Command-Line Tools Custom Providers Extension | Experimental | [0.2.1](https://github.com/Azure/azure-cli-extensions/tree/master/src/custom-providers/HISTORY.rst) |
 |[customlocation](https://msazure.visualstudio.com/AzureArcPlatform/_git/customlocation-cli-extensions) | 2.70.0 | Microsoft Azure Command-Line Tools Customlocation Extension | GA | [0.1.4](https://msazure.visualstudio.com/AzureArcPlatform/_git/customlocation-cli-extensions) |
@@ -129,7 +129,7 @@ You will be prompted to install an extension on first use.
 |[health-models](https://github.com/Azure/azure-cli-extensions/tree/main/src/health-models) | 2.75.0 | Support for managing Azure Monitor health models, including entities, signals, relationships, authentication settings, and discovery rules. | Preview | [1.0.0b1](https://github.com/Azure/azure-cli-extensions/tree/main/src/health-models/HISTORY.rst) |
 |[healthbot](https://github.com/Azure/azure-cli-extensions/tree/main/src/healthbot) | 2.15.0 | Microsoft Azure Command-Line Tools HealthbotClient Extension | GA | [1.1.0](https://github.com/Azure/azure-cli-extensions/tree/main/src/healthbot/HISTORY.rst) |
 |[healthcareapis](https://github.com/Azure/azure-cli-extensions/tree/main/src/healthcareapis) | 2.66.0 | Microsoft Azure Command-Line Tools HealthcareApisManagementClient Extension | GA | [1.0.1](https://github.com/Azure/azure-cli-extensions/tree/main/src/healthcareapis/HISTORY.rst) |
-|[horizondb](https://github.com/Azure/azure-cli-extensions/tree/main/src/horizondb) | 2.17.1 | Microsoft Azure Command-Line Tools HorizonDB Extension | Preview | [1.0.0b3](https://github.com/Azure/azure-cli-extensions/tree/main/src/horizondb/HISTORY.rst) |
+|[horizondb](https://github.com/Azure/azure-cli-extensions/tree/main/src/horizondb) | 2.17.1 | Microsoft Azure Command-Line Tools HorizonDB Extension | Preview | [1.0.0b4](https://github.com/Azure/azure-cli-extensions/tree/main/src/horizondb/HISTORY.rst) |
 |[hpc-cache](https://github.com/Azure/azure-cli-extensions/tree/main/src/hpc-cache) | 2.3.0 | Microsoft Azure Command-Line Tools StorageCache Extension | GA | [0.1.6](https://github.com/Azure/azure-cli-extensions/tree/main/src/hpc-cache/HISTORY.rst) |
 |[image-copy-extension](https://github.com/Azure/azure-cli-extensions/tree/main/src/image-copy) | 2.68.0 | Support for copying managed vm images between regions | GA | [1.0.4](https://github.com/Azure/azure-cli-extensions/tree/main/src/image-copy/HISTORY.rst) |
 |[image-gallery](https://github.com/Azure/azure-cli-extensions/tree/main/src/image-gallery) | 2.3.0 | Support for Azure Image Gallery | Preview | [1.0.0b2](https://github.com/Azure/azure-cli-extensions/tree/main/src/image-gallery/HISTORY.rst) |
